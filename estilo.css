@@ -1,2 +1,28 @@
 /* Importa o arquivo CSS que importa a fonte Ravie */
 @import "fonts/ravie.css";
+html, body {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100%;
+}
+
+#recipiente{
+
+}
+
+#cabecalho h1{
+    font-size: 36px;
+    font-family: 'Ravie';
+    color: #f90c0c;
+
+}
+
+#cabecalho h2{
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #333;
+}
+
+.roxo{
+    color: #d027aa;
+}
